@@ -1,0 +1,12 @@
+nav {
+    background: #222;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+body { font-family: Arial; margin: 20px; }
+form input, textarea { width: 300px; }
+button { padding: 8px 12px; }
